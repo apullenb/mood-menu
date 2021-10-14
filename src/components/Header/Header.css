@@ -1,0 +1,20 @@
+.head {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  align-content: center;
+  text-transform: uppercase;
+}
+
+.head h1 {
+  font-size: 70px;
+  color: #0b84aa;
+  margin: 0;
+}
+
+.head h2 {
+  font: bold 23px Century Gothic;
+  margin: 0;
+  color: #707070;
+}
